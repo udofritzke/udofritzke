@@ -5,7 +5,7 @@
 **udofritzke/udofritzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Sou professor da [PUC Minas campus Poços de Caldas](https://www.pucpcaldas.br/).
-Tenho utilizado meus repositórios essencialmente para publicação de pequenos projetos (exemplos de código) com finalidade acadêmica e a ser compartilhados com meus alunos. 
+Tenho utilizado meus repositórios essencialmente para publicação de pequenos projetos (exemplos de código) com finalidade acadêmica e a ser compartilhados com meus alunos (em com quem mais possa interessar...). 
 
 <!--
 ### Aqui temos um pouco de minha atividade em meus repositórios:
