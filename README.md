@@ -7,7 +7,7 @@
 Sou professor da [PUC Minas campus Poços de Caldas](https://www.pucpcaldas.br/).
 Tenho utilizado meus repositórios essencialmente para publicação de pequenos projetos (exemplos de código) com finalidade acadêmica e a ser compartilhados com meus alunos (e com quem mais possa interessar...). 
 
-I´m lecturer at [PUC Minas campus Poços de Caldas](https://www.pucpcaldas.br/). My repositories aim mainly at providing simple source-code examples to be shared with my students (and who else miht be interested in ...).
+I´m lecturer at [PUC Minas campus Poços de Caldas](https://www.pucpcaldas.br/). My repositories aim mainly at providing simple source-code examples to be shared with my students (and who else might be interested in ...).
 
 <!--
 ### Aqui temos um pouco de minha atividade em meus repositórios:
