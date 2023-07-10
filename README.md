@@ -31,3 +31,4 @@ I´m lecturer at [PUC Minas campus Poços de Caldas](https://www.pucpcaldas.br/)
 ![Icone Java](https://github.com/udofritzke/udofritzke/assets/81312361/1a2ba6b0-f19c-46a5-835e-30877ec8da6c)
 <img src="https://github.com/udofritzke/udofritzke/assets/81312361/1a2ba6b0-f19c-46a5-835e-30877ec8da6c" width="100" height="100" />
 -->
+[![Udo's GitHub stats](https://github-readme-stats.vercel.app/api?username=udofritzke&show_icons=true&theme=radical)](https://github.com/udofritzke/github-readme-stats)
